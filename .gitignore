@@ -1,0 +1,16 @@
+# Flutter/Dart
+.dart_tool/
+.packages
+.pub/
+build/
+
+# Android
+android/.gradle/
+android/local.properties
+
+# iOS
+ios/
+
+# Misc
+*.log
+*.tmp
